@@ -1,15 +1,26 @@
+var c = 3
+do{
+    console.log(`Passo ${c}`)
+} while (c <= 4)
+
+
+
+/*
+do{
+    c <= 6 
+} while (c)
+*/
+
+/*
 var c = 1
 while (c <= 6) {
     console.log(`Passo ${c}`)
     c++
 }
+*/
 
 
 
-
-do{
-    c <= 6 
-} while (c)
 
 /* 
 console.log('Tudo bem?')
