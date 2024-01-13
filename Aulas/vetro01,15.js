@@ -1,5 +1,5 @@
 let valor = [8,1,7,2,4,9]
-valor.indexOf(1)
+valor.indexOf(4)
 valor.sort()
 console.log(valor)
 
