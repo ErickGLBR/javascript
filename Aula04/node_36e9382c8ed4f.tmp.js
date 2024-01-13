@@ -1,7 +1,7 @@
-var c = 6
+var c = 8
 do{
     console.log(`Passo ${c}`)
-} while (c <= 6)
+} while (c <= 8)
 
 
 
